@@ -1,3 +1,5 @@
 # Randompanel
- Homework for implements and interfaces
+
+Homework for implements and interfaces
+
 Ваша домашка в пакете randompanel. Там у нас набор контроллеров: кнопок, панелей, которые можно нажимать и рычагов, которые можно тянуть. В классе ControllPanel создан массив контроллеров, напишите метод start, который должен сначала нажать все кнопки и панели, кроме большой красной кнопки BigRedButton а после этого потянуть все рычаги
